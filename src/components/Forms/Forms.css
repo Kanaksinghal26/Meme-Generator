@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 4vh auto;
+    width: 85%;
+}
+.btn{
+    width: 85%;
+}

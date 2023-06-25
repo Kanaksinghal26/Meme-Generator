@@ -1,0 +1,29 @@
+.display{
+    margin: 4vh auto;
+    width: 85%;
+    border: 5px solid red;
+    height: 45vh;
+    position: relative;
+    /* color: white; */
+}
+
+.display {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .upper {
+    margin-top: auto;
+    margin-bottom: 12vh;
+  }
+  
+  .lower {
+    margin-top: 12vh;
+    margin-bottom: auto;
+  }
+
+  /* .display{
+    background-image: url(../../assets/image2.jpeg);
+    background-size: contain;
+  } */
